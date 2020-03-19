@@ -35,3 +35,10 @@ All pacakges should be installed in virual env via `pip install` command
 ## Draft results
 
 TBA
+
+## Dataset
+
+* places2
+* TBA
+
+Note: I can provide it by request - contact with me via issues or another way.
