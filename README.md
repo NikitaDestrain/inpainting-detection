@@ -44,7 +44,7 @@ All pacakges should be installed in virual env via `pip install` command
 
 Note: I can provide it by request - contact with me via issues or another way.
 
-## Preatrained model
+## Pretrained model
 
 * Batch size: 20
 * Epochs: 5
