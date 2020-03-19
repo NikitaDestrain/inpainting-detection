@@ -37,6 +37,10 @@ All pacakges should be installed in virual env via `pip install` command
 
 ![](https://github.com/NikitaDestrain/inpainting-detection/blob/master/samples/1.png)
 
+![](https://github.com/NikitaDestrain/inpainting-detection/blob/master/samples/2.png)
+
+![](https://github.com/NikitaDestrain/inpainting-detection/blob/master/samples/3.png)
+
 ## Dataset
 
 * places2
