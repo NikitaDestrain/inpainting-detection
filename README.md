@@ -35,7 +35,7 @@ All pacakges should be installed in virual env via `pip install` command
 
 ## Draft results
 
-TBA
+![](https://github.com/NikitaDestrain/inpainting-detection/blob/master/samples/1.png)
 
 ## Dataset
 
@@ -43,3 +43,10 @@ TBA
 * TBA
 
 Note: I can provide it by request - contact with me via issues or another way.
+
+## Preatrained model
+
+* Batch size: 20
+* Epochs: 5
+* Validation data size: 200
+* Train data size: 1028
