@@ -50,7 +50,37 @@ Note: I can provide it by request - contact with me via issues or another way.
 
 ## Pretrained model
 
+### DFNet_UnetW.h5
+* Mask form: rectangle
 * Batch size: 20
 * Epochs: 5
 * Validation data size: 200
 * Train data size: 1028
+
+### DFNet_UnetW_3batch.h5
+* Mask form: rectangle
+* Batch size: 3
+* Epochs: 10
+* Validation data size: 400
+* Train data size: 1028
+
+### DFNet_UnetW_5_10.h5
+* Mask form: rectangle
+* Batch size: 5
+* Epochs: 10
+* Validation data size: 400
+* Train data size: 1028
+
+### DFNet_UnetW_5_10_ellipse.h5 - no way results for 0.3 result of CNN
+* Mask form: ellipse
+* Batch size: 4
+* Epochs: 10
+* Validation data size: 400
+* Train data size: 1028
+
+### Context_Encoder_UnetW_5_10.h5 - 100% detection, because we have inpainting in the same place for all images 
+* Mask form: rectangle
+* Batch size: 5
+* Epochs: 10
+* Validation data size: 350
+* Train data size: 1002
